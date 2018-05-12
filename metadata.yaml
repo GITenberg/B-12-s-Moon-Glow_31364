@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26736'
     url: http://www.gutenberg.org/2009/agents/26736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31364#B-12-s-Moon-Glow
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
